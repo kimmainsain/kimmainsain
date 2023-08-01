@@ -1,8 +1,6 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsid007)](https://solved.ac/kmsid007/)
 
-![KakaoTalk_20230610_001504654_01.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f0e6353-8943-40cb-bf0d-602ee5b6dbae/KakaoTalk_20230610_001504654_01.jpg)
-
 ## Contact & Channels
 
 ---
@@ -46,6 +44,7 @@
 ## The Eden
 
 https://github.com/kimmainsain/EnjoyTrip_Vue
+<br>
 2023.05.17 ~ 2023.05.25
 
 - 여행 웹 사이트
@@ -56,11 +55,6 @@ https://github.com/kimmainsain/EnjoyTrip_Vue
 ## Unibirth
 
 2023.07.04 ~ 
-
-- 여행 웹 사이트
-    - SSAFY 9기 활동 프로젝트
-    - 프론트엔드 담당
-    - Vue.js, Spring …
 
 - 우주 별자리 SNS
     - React, Three.js, Recoil, Konva.js
