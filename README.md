@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random)
 
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsid007)](https://solved.ac/kmsid007/)
 
-## Contact & Channels
+# 📫 Contact & Channels
 
 ---
 
@@ -22,10 +21,18 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/react native-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=black">
   <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  
   <br>
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   
+  </div>
+
+  # ✨ Stats
   ---
+  <div align=center>
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsid007)](https://solved.ac/kmsid007/)
+
+  ![kimmainsain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmainsain&show_icons=true&theme=transparent)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.comkimmainsain%2Fhit-counter&count_bg=%2319E5BA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
